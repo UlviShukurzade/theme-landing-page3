@@ -87,4 +87,3 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
 {{< disqus >}}
 
 
-{{ template "content/layouts/shortcodes/disqus.html" . }}
