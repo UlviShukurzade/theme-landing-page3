@@ -105,4 +105,3 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
         (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
