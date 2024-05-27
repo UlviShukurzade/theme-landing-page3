@@ -53,3 +53,15 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+
+
+features:
+  comment:
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: disqus
+
+    disqus:
+      # Paste the shortname from your Disqus dashboard.
+      shortname: berrysome-com
+      # Show comment count in page header? (true/false)
+      show_count: true
